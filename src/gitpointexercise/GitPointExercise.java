@@ -12,6 +12,7 @@ package gitpointexercise;
 public class GitPointExercise {
 
     String language = "English";
+    String Name = "Hans";
     public static void main(String[] args) {
         new GitPointExercise().info();
     }
