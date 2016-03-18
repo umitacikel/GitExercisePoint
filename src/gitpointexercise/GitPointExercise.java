@@ -11,11 +11,13 @@ package gitpointexercise;
  */
 public class GitPointExercise {
 
-    /**
-     * @param args the command line arguments
-     */
+    String language = "English";
     public static void main(String[] args) {
-        // TODO code application logic here
+        new GitPointExercise().info();
     }
-    
+    public void info(){
+
+
+
+}
 }
