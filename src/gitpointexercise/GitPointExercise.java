@@ -19,6 +19,6 @@ public class GitPointExercise {
     }
 
     public void info() {
-
+        
     }
 }
